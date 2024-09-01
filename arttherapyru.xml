@@ -98,7 +98,7 @@ https://arttherapy.ru/arttherapypro
 <offer id="basic">
 <name>Основы арт-терапии и консультативной работы</name>
 <url>
-https://arttherapy.ru/arttherapypro1
+https://arttherapy.ru/option/arttherapypro1
 </url>
 <categoryId>699</categoryId>
 <!-- Обязательная ссылка на категорию -->
@@ -110,14 +110,6 @@ https://arttherapy.ru/arttherapypro1
 <currencyId>RUR</currencyId>
 <param name="Цена по скидке">12000</param>
 <param name="Дата окончания скидки">2024-12-31</param>
-<param name="Оплата в рассрочку" unit="месяц">4</param>
-<!--
-Рассрочка общей цены на период. Возможные значения для unit - месяц, день
--->
-<!-- Цена за месяц -->
-<param name="Ежемесячная цена">3700</param>
-<param name="Ежемесячная цена по скидке">3000</param>
-<!-- Сроки курсов -->
 <param name="Ближайшая дата">2024-09-15</param>
 <param name="Продолжительность" unit="месяц">1</param>
 <!-- Программа обучения -->
@@ -154,7 +146,7 @@ https://arttherapy.ru/arttherapypro1
 <offer id="practice">
 <name>Практические техники арт-терапии</name>
 <url>
-https://arttherapy.ru/arttherapypro2
+https://arttherapy.ru/option/arttherapypro2
 </url>
 <categoryId>699</categoryId>
 <!-- Обязательная ссылка на категорию -->
@@ -164,17 +156,9 @@ https://arttherapy.ru/arttherapypro2
 <!-- Общая цена курса -->
 <price>29600</price>
 <currencyId>RUR</currencyId>
-<param name="Оплата в рассрочку" unit="месяц">4</param>
-<!--
-Рассрочка общей цены на период. Возможные значения для unit - месяц, день
--->
-<!-- Цена за месяц -->
-<param name="Ежемесячная цена">7400</param>
-<!-- Сроки курсов -->
 <param name="Ближайшая дата">2024-09-15</param>
 <param name="Продолжительность" unit="месяц">2</param>
 <!-- Программа обучения -->
-
 <param name="План" order="1" unit="Готовый набор упражнений в каждой технике" hours="80">
 <![CDATA[
  Диагностические и проективные упражнения: психосоматика, техника 4 рисунков (расширение контекста), анализ личных границ, социальная идентичность. Проективные аналитические упражнения: стресс, тревога, жизненный путь, кризис, система ценностей. Мандала: системный подход. Коллаж: Soul Collage. Маска: выбор субличностей, игра в маске. Метафорические ассоциативные карты в арт-терапии.
@@ -209,7 +193,7 @@ https://arttherapy.ru/arttherapypro2
 <offer id="specialisation">
 <name>Выбор специализации и составление программы по арт-терапии</name>
 <url>
-https://arttherapy.ru/arttherapypro3
+https://arttherapy.ru/option/arttherapypro3
 </url>
 <categoryId>699</categoryId>
 <!-- Обязательная ссылка на категорию -->
@@ -221,14 +205,6 @@ https://arttherapy.ru/arttherapypro3
 <currencyId>RUR</currencyId>
 <param name="Цена по скидке">12000</param>
 <param name="Дата окончания скидки">2024-12-31</param>
-<param name="Оплата в рассрочку" unit="месяц">4</param>
-<!--
-Рассрочка общей цены на период. Возможные значения для unit - месяц, день
--->
-<!-- Цена за месяц -->
-<param name="Ежемесячная цена">3700</param>
-<param name="Ежемесячная цена по скидке">3000</param>
-<!-- Сроки курсов -->
 <param name="Ближайшая дата">2024-09-15</param>
 <param name="Продолжительность" unit="месяц">1</param>
 <!-- Программа обучения -->
@@ -276,14 +252,6 @@ https://arttherapy.ru/courses/mac
 <currencyId>RUR</currencyId>
 <param name="Цена по скидке">12800</param>
 <param name="Дата окончания скидки">2024-12-31</param>
-<param name="Оплата в рассрочку" unit="месяц">2</param>
-<!--
-Рассрочка общей цены на период. Возможные значения для unit - месяц, день
--->
-<!-- Цена за месяц -->
-<param name="Ежемесячная цена">7200</param>
-<param name="Ежемесячная цена по скидке">6400</param>
-<!-- Сроки курсов -->
 <param name="Ближайшая дата">2024-09-15</param>
 <param name="Продолжительность" unit="месяц">1</param>
 <!-- Программа обучения -->
