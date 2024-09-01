@@ -27,7 +27,7 @@ https://arttherapy.ru/arttherapypro
 </set>
 </sets>
 <offers>
-<offer id="s">
+<offer id="atpro123">
 <name>Арт-терапия в консультационной практике. Профессиональная подготовка</name>
 <url>
 https://arttherapy.ru/arttherapypro
@@ -95,7 +95,7 @@ https://arttherapy.ru/arttherapypro
 <description>Первая в России обучающая программа для арт-терапевтов на базе аналитической психологии</description>
 </offer>
 <offers>
-<offer id="s">
+<offer id="basic">
 <name>Основы арт-терапии и консультативной работы</name>
 <url>
 https://arttherapy.ru/arttherapypro1
@@ -151,7 +151,7 @@ https://arttherapy.ru/arttherapypro1
 <description>Первая в России обучающая программа для арт-терапевтов на базе аналитической психологии</description>
 </offer>
 <offers>
-<offer id="s">
+<offer id="practice">
 <name>Практические техники арт-терапии</name>
 <url>
 https://arttherapy.ru/arttherapypro2
@@ -206,7 +206,7 @@ https://arttherapy.ru/arttherapypro2
 <description>Первая в России обучающая программа для арт-терапевтов на базе аналитической психологии</description>
 </offer>
 <offers>
-<offer id="s">
+<offer id="specialisation">
 <name>Выбор специализации и составление программы по арт-терапии</name>
 <url>
 https://arttherapy.ru/arttherapypro3
